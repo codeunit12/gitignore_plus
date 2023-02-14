@@ -4,7 +4,10 @@ Improved gitignore for ignoring sounds, movies,
 compressed files and other non-essential files.
 
 
-#ignore music
+
+
+
+# ignore music
 
 .mp3
 .fcl
@@ -16,7 +19,7 @@ compressed files and other non-essential files.
 .flac
 .alac
 
-#ignore movies
+# ignore movies
 
 .mov
 .mp4
@@ -32,7 +35,7 @@ compressed files and other non-essential files.
 .wbmp
 .tga
 
-#ignore images
+# ignore images
 
 .gif
 .ai
@@ -57,7 +60,7 @@ compressed files and other non-essential files.
 .nef
 .pef
 
-#documents
+# documents
 
 .ppt
 .xcl
@@ -66,7 +69,7 @@ compressed files and other non-essential files.
 .mobi
 .xcf
 
-#compressed files
+# compressed files
 
 .zip
 .rar
@@ -75,6 +78,6 @@ compressed files and other non-essential files.
 .iso
 .tor
 
-#etcetera
+# etcetera
 .tor
 
