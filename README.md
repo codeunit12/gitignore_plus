@@ -4,7 +4,7 @@ Improved gitignore for ignoring sounds, movies,
 compressed files and other non-essential files.
 
 
-# ignore music
+#ignore music
 
 .mp3
 .fcl
